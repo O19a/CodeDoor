@@ -1,7 +1,7 @@
 # README: Coaching Office Hours 
 **When:** every Wednesday, 15:00 Philippines / 08:00 Munich, Germany.
 
-No office hours from 24.12.2020 to 08.01.2021
+No office hours from 24.12.2020 to 04.01.2021
 
 **Where:** MS Teams
 

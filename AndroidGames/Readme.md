@@ -1,11 +1,11 @@
 # README: Coaching Office Hours 
 **When:** every Wednesday, 19:30 Munich, Germany.
 
-No office hours from 21.12.2020 to 08.01.2021
+No office hours from 23.12.2020 to 08.01.2021
 
 **Where:** GVC
 
-In order to maximize the time for questions please post the questions you have in the Teams chat before the office hour. 
+In order to maximize the time for questions please post the questions you have in the Meeting Notes doc (attached to meeting invitation) before the office hour. 
 
 
 ## Status updates
